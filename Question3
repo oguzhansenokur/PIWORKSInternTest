@@ -1,0 +1,30 @@
+/*
+C# 
+
+int a=Convert.ToInt32(Console.ReadLine());
+int b=Convert.ToInt32(Console.ReadLine());
+a=a+b;
+b=a-b;
+a=a-b;
+Console.WriteLine("a:"+a+"\nb:"+b);
+**************************************************
+
+C++
+int a,b;
+cin>>a;
+cin>>b;
+a=a+b;
+b=a-b;
+a=a-b;
+cout<<"a: "<<a<<endl<<" b: "<<b<<endl;
+
+**************************************************
+JAVA
+Scanner scan=new Scanner(System.in);
+a=scan.NextInt();
+b=scan.NextInt();
+a=a+b;
+b=a-b;
+a=a-b;
+System.out.println("a: "+a+"\nb: "+b);
+*/
